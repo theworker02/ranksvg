@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/ranksvg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rank host/svg network string helpers for config audits.",
+  "bin": {
+    "ranksvg": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/ranksvg.git"
+  },
+  "homepage": "https://theworker02.github.io/ranksvg/",
+  "keywords": [
+    "rank",
+    "svg",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
